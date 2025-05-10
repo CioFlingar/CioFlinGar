@@ -92,9 +92,9 @@
 ### 📈 My GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=CioFlinGar&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" /> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CioFlinGar&theme=dracula&hide_border=true" alt="Streak Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CioFlinGar&exclude_repo=person_identification_yolov8&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+       <img width=390 src="https://github-readme-stats.vercel.app/api?username=Cioflingar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="my_github_stats" /></br>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=cioflingar&&count_private=true&&theme=react&&border_radius=10" alt="my_github_stats" /></br>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cioflingar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="my_github_stats" />
 </p>
 
 ---
