@@ -101,15 +101,15 @@
 
 ### 📂 Featured Projects
 
-- 📰 [**Article Management App**](https://github.com/cioflingar/Article_Crontrol_System)  
+- 📰 [**Article Management App**](https://github.com/CioFlingar/Article_Crontrol_System)  
   Full Stack | Django App | Authentication | Admin Control | UI/UX Polished | Social Login
-  
-  ![Stars](https://img.shields.io/github/stars/cioflingar/Article_Control_System?style=social)
+
+  ![Stars](https://img.shields.io/github/stars/CioFlingar/Article_Crontrol_System?style=social)
   
 - 🚀 [**Smart Queue Management System**](https://github.com/CioFlingar/smart_queue_management_project)  
   A scalable Flask-based system using JWT and SQLAlchemy for efficient queue management.  
   ![Stars](https://img.shields.io/github/stars/cioflingar/smart_queue_management_project?style=social)
-
+  
 - 👥 [**Employer Management System**](https://github.com/CioFlingar/Employer-Management-System)
   A Secure REST API with JWT and custom user model in DRF.
   ![Stars](https://img.shields.io/github/stars/cioflingar/Employer-Management-System?style=social)
