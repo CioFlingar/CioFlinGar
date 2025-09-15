@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Walid Hasan 👋</h1>
 <p align="center">
-  💻 Software Engineer | 🐍 Python Enthusiast | 🌍 Open Source Advocate
+  💻 Software Engineer | 🐍 Python Developer | AI/ML and Cyber Security Enthusiast
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently working on**: [Advanced api system](https://github.com/cioflingar/#) (Django REST Framework)
-- 🌱 **Learning**:Advanced DRF, CI/CD Pipelines
+- 🌱 **Learning**: React
 - 🧠 **Passionate about**: Backend Development, AI Integration, Open Source
 - 💬 **Ask me about**: Python, Django, Flask, FastAPI, REST APIs.
 - 📫 **Reach me**: [Email](mailto:eng.walidhasan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/walid-hasan-)
